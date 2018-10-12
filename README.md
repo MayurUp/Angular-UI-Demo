@@ -1,3 +1,13 @@
+Step1 
+install angular Cli
+Step2 
+npm install ngx-bootstrap --save
+download Project 
+Step3
+npm start
+step 4 
+run Localhost:4200 on any browser 
+done.
 # Eluci
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
